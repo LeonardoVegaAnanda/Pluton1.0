@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pluton1.0", "Pluton1.0.csproj", "{7AEAD88C-0DE0-4553-A56A-0EAEF9320C88}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlutonInstalacion", "..\PlutonInstalacion\PlutonInstalacion.vdproj", "{08DDEBFC-BCD5-4420-8808-357E73AAA1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEAD88C-0DE0-4553-A56A-0EAEF9320C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEAD88C-0DE0-4553-A56A-0EAEF9320C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEAD88C-0DE0-4553-A56A-0EAEF9320C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEAD88C-0DE0-4553-A56A-0EAEF9320C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DDEBFC-BCD5-4420-8808-357E73AAA1A4}.Debug|Any CPU.ActiveCfg = Debug
+		{08DDEBFC-BCD5-4420-8808-357E73AAA1A4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6F2B98-D54E-4759-B157-395F3A831FE5}
+	EndGlobalSection
+EndGlobal
